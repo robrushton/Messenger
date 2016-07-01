@@ -10,8 +10,7 @@ This is simple instant messenger the utilizes threading and multicasting. Each c
 ## Intructions
 **This program requires:**
 - **Java JRE/JDK**
-
-**Optional:** Netbeans IDE
+- **Optional:** Netbeans IDE
 
 There are two options available for building and using the program.
 
